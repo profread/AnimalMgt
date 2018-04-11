@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">AnimalMgt</string>
+    <!-- Questions name -->
+    <string name="question_one">The longest axis of a poultry house should be sited in which direction?</string>
+    <string name="header">How well do you know Animal Management? </string>
+    <string name="intro"> Take this test to brush up knowledge.</string>
+    <string name="question_one_no">Question ONE</string>
+    <string name="question_two_no">Question TWO</string>
+    <string name="question_two">A GnRH hormone used in stimulating Ovulation and Spermiation in fish breeding is __</string>
+    <string name="your_response">Your Answer</string>
+    <string name="question_three_no">Question THREE</string>
+    <string name="instruction">Select all that apply:</string>
+    <string name="question_three">Fascioliasis is a disease that affects which of the following animals.</string>
+    <string name="button_name">I\'m done</string>
+    <string name="option_A_one">North-West</string>
+    <string name="option_B_one">South-East</string>
+    <string name="option_C_one">East-West</string>
+    <string name="option_D_one">South-West</string>
+    <string name="option_A_three">Cattle</string>
+    <string name="option_B_three">Pig</string>
+    <string name="option_C_three">Poultry</string>
+    <string name="option_D_three">Sheep</string>
+    <string name="option_E_three">Goat</string>
+    <string name="question_four_no">Question Four</string>
+    <string name="question_four">Which of the following better explains Ascites. </string>
+    <string name="option_A_four"> Accumulation of yellow clots in chickens </string>
+    <string name="option_B_four"> It is associated with hepatic fibrosis </string>
+    <string name="option_C_four"> Occurs as a results of hypoxia </string>
+    <string name="option_D_four">Accumulation of non inflammatory transcudate in one more of the peritonial cavities</string>
+    <string name="question_five_no">Question Five</string>
+    <string name="question_five">High levels of Ammonia can affect birds in following ways. </string>
+    <string name="option_A_five"> Breast Blisters </string>
+    <string name="option_B_five"> Reduced immunity </string>
+    <string name="option_C_five"> Twisting of neck </string>
+    <string name="option_D_five"> Blindness </string>
+    <string name="question_six_no">Question Six</string>
+    <string name="question_six"> Fusobacterium necrophorum is a primary infectious organism implicated in.  </string>
+    <string name="option_A_six"> Swollen hoof </string>
+    <string name="option_B_six"> Foot rot </string>
+    <string name="option_C_six"> Alopacia </string>
+    <string name="option_D_six"> Anthrax </string>
+    <string name="question_seven_no"> Question Seven</string>
+    <string name="question_seven"> FCR is an indicator of what?__________</string>
+    <string name="option_A_seven">Production performance</string>
+    <string name="option_B_seven">How efficient a feed or feeding regime is depending on the animals performance</string>
+    <string name="option_C_seven">Feed Intake</string>
+    <string name="option_D_seven">Profitability of the enterprise</string>
+    <string name="question_eight_no"> Question Eight</string>
+    <string name="question_eight">______ is a set of practises employed to prevent the importation of infectious
+    organisms into a herd or flock and their transmission between animals. </string>
+    <string name="option_A_eight">Sanitation</string>
+    <string name="option_B_eight">Disinfectation</string>
+    <string name="option_C_eight">Bio-security</string>
+    <string name="option_D_eight">Culling</string>
+    <string name="question_nine_no">Question Nine</string>
+    <string name="question_nine"> As a form of bio-security means it is advisable to pre-screened newly
+    purchased animals.</string>
+    <string name="option_A_nine">True</string>
+    <string name="option_B_nine">False</string>
+    <string name="question_ten_no">Question Ten</string>
+    <string name="question_ten">The optimum temperature in broiler pen should be ____ at start and reduced by_____ weekly.</string>
+    <string name="option_A_ten">38⁰C, 10⁰C</string>
+    <string name="option_B_ten">35⁰C , 15⁰C</string>
+    <string name="option_C_ten">39⁰C , 5⁰C</string>
+    <string name="option_D_ten">40⁰C , 20⁰C</string>
+    <string name="user_name">Your Name</string>
+
+
+</resources>

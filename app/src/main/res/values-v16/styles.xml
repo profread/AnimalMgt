@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_text">
+        <item name="android:textSize">8sp</item>
+        <item name="android:textColor"></item>
+        <item name="android:layout_margin"></item>
+        <item name="android:fontFamily"></item>
+
+
+    </style>
+</resources>
